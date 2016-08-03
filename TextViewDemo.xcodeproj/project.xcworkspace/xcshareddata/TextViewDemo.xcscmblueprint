@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "396021EFB49AE2BC1C9F30900A277EE482EF3B75",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AF09D909809255B4894902F6B469DB189AE13571" : 0,
+    "396021EFB49AE2BC1C9F30900A277EE482EF3B75" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FEF2EE5F-F250-44EE-B2F6-77B81F6D0D37",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AF09D909809255B4894902F6B469DB189AE13571" : "..\/iOS\/FamilyTree",
+    "396021EFB49AE2BC1C9F30900A277EE482EF3B75" : "%E4%BB%BF%E8%B1%86%E7%93%A3%E6%97%A5%E8%AE%B0%E7%BC%96%E8%BE%91\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TextViewDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TextViewDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jql772386689\/JingQLEditTextView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "396021EFB49AE2BC1C9F30900A277EE482EF3B75"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.ddcard.com.cn:qqwj-ios\/FamilyTree.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AF09D909809255B4894902F6B469DB189AE13571"
+    }
+  ]
+}
